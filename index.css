@@ -56,7 +56,7 @@ li a:hover{
 .title{
     padding: 45px 0px 10px 20px;
     font-size: larger;
-    font-family:  'Sarabun', sans-serif;
+    /* font-family:  'Sarabun', sans-serif; */
 }
 
 .container{
